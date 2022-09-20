@@ -1,0 +1,64 @@
+body {
+    background: #e6f3ff;
+    padding: 5%;
+  }
+  
+  strong {
+    font-weight: Bold;
+  }
+  
+  img {
+    float: right;
+    border-radius: 10px;
+    margin-right: 100px;
+  }
+  
+  footer {
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 10px;
+    padding: 3px;
+    background-color: Orange;
+    color: Black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  .tagline {
+    color: blueviolet;
+    font-style: italic;
+  }
+  .description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+  }
+  h1, h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .pricetopic{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .content-table {
+    border-collapse: collapse;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 25px 0;
+    font-size: 20px;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgb(182, 178, 178);
+  }
+  
+  th, td {
+    padding: 12px 15px;
+  }
+  
+  tr {
+    text-align: left;
+    border-bottom: 1px solid #d8d8d8;
+  }
+  
